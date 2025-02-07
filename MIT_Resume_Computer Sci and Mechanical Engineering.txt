@@ -1,0 +1,29 @@
+Experience
+
+1. Created and sustained 40+ software applications with a 92% average bug-free code.
+2. Contributed to developing 20+ new features in the company's flagship software product within 17 weeks on the job.
+3. Partnered with 10+ cross-functional teams to deliver software solutions on time and 66% below budget.
+4. Implemented Agile methodologies via careful planning; reduced software development time by 55 days.
+5. Resolved memory leaks that had been plaguing 20+ mobile applications, which improved program speed by 88%.
+6. Identified and fixed vulnerabilities in an enterprise-wide application with 40k lines of code without disrupting system performance.
+
+Additional skills
+
+(Hard skills)
+1. Encryption
+2. Authentication
+3. Manual testing
+4. Software testing
+5. Object-oriented programming
+
+(Techniques)
+1. Agile Methodologies
+2. Software Development
+3. Chromatography
+
+(Tools)
+1. JavaScript
+2. Java
+3. Python
+4. JIRA
+5. Visual Studio
